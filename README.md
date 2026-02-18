@@ -27,3 +27,7 @@ This project only requires Python 3 and **NumPy**. You can install NumPy via pip
 
 ```bash
 pip install numpy
+
+## Link to dataset
+
+The dataset is Text8, that can be found [here](https://www.kaggle.com/datasets/yorkyong/text8-zip).
