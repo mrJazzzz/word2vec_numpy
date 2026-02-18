@@ -27,7 +27,7 @@ This project only requires Python 3 and **NumPy**. You can install NumPy via pip
 
 ```bash
 pip install numpy
-
+```
 ---
 
 ## Link to dataset
